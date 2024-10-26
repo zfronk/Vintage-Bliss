@@ -1,0 +1,148 @@
+body{
+
+  background-color: beige ;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment:fixed ;
+  margin:0px auto;
+  text-align: center;
+  
+  padding: 10px;
+  
+
+
+
+}
+
+*{
+  
+  box-sizing: border-box;
+  
+}
+
+
+
+#headerMain{ 
+
+  
+  font-family: "Wendy One", sans-serif;
+  text-transform: uppercase;
+  text-shadow: 2px 2px grey;
+  font-size: 40px;
+  letter-spacing: 4px;
+  
+  width: 40%;
+  height: auto;
+  margin: 0px auto;
+  
+
+
+}
+
+#headers{
+  
+  text-decoration: none;
+  font-weight: bold;
+  font-family: 'Wendy One';
+  font-size: 21.5px;
+  letter-spacing: 1px;
+  text-transform: none;
+  color: black;
+  
+
+}
+
+
+a{
+
+  text-decoration: none;
+  font-weight: bold;
+  font-family: 'Wendy One';
+  font-size: 21.5px;
+  letter-spacing: 1px;
+  text-transform: none;
+  color: black;
+  
+}
+
+#underline{
+  width: 40%;
+  margin-top:-2px;
+  border: solid 3px;
+}
+
+ul{
+  padding:10px;
+  display: inline-block;
+  
+}
+
+
+
+#smallTextHeader{
+  text-decoration: none;
+  font-weight: bold;
+  font-family: "Wendy One", sans-serif;
+  font-size: 25px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  
+  
+ 
+}
+
+#secondUnderline{
+  width: 37%;
+  margin-top:-20px ;
+  border: solid 2px;
+  
+ 
+  
+}
+
+
+
+#disclaimerBox{
+  margin-top:20px ;
+}
+
+
+li{
+  list-style-type: upper-roman;
+  padding:15px;
+  font-weight: bold;
+  font-size: 15.6px;
+ 
+}
+
+p{
+  font-size: 19.69px;
+  font-weight: normal;
+  font-family: monospace;
+}
+
+.navText{
+  font-family: 'wendy One';
+  font-weight: normal;
+  font-size: 18.6px;
+}
+
+
+.navText:hover{
+  font-size: 19px;
+  cursor:pointer;
+}
+
+footer{
+  text-align: end;
+  padding: 20px;
+  font-family: 'wendy One';
+}
+
+
+
+.footer{
+  font-family: 'wendy One';
+  font-size: 19.9px;
+  font-weight: normal;
+}
